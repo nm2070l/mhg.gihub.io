@@ -1,0 +1,9 @@
+Origin:  
+Label: اعد كتابة  اسم السورس 
+Label: 
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: وصف السورس 
+Description: repo
